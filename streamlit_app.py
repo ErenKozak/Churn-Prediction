@@ -7,10 +7,6 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 import streamlit as st
-import ssl
-
-ssl._create_default_https_context = ssl._create_unverified_context
-
 
 df = pd.read_csv("https://raw.githubusercontent.com/ErenKozak/Churn-Prediction/refs/heads/master/Data/customer_churn_dataset-testing-master.csv")
 

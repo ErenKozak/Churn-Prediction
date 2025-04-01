@@ -1,5 +1,3 @@
-# 📦 Churn Prediction
-
 # 📊 Customer Churn Prediction with Machine Learning  
 
 This project uses the **Random Forest** algorithm to predict **customer churn**. By analyzing customer usage data, the model helps identify **which customers are likely to leave** the service.  

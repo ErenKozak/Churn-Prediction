@@ -21,6 +21,12 @@ Follow these steps to set up and run the project on your local machine:
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ekchurnpredict.streamlit.app/)
 
 
+
+https://github.com/user-attachments/assets/34475bcf-d7d0-465c-8895-92669c5febf9
+
+
+
+
 ```bash
 git clone https://github.com/ErenKozak/Churn-Prediction.git
 cd Churn-Prediction
